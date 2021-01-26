@@ -1,8 +1,8 @@
 def func_executor(*args):
-    result = []
+    result = [args[i][0](*args[i][1]) for i in range(len(args))]
 
-    for i in range(len(args)):
-        result.append(args[i][0](*args[i][1]))
+    # for i in range(len(args)):
+    #     result.append(args[i][0](*args[i][1]))
 
     return result
 
