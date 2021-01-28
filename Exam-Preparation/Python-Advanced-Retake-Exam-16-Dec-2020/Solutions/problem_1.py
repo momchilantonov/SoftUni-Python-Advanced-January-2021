@@ -28,6 +28,7 @@ def search_matches(males, females):
         female = females.popleft()
         if special_case(female, females):
             females.popleft()
+            males.append(male)
             continue
         if is_match(male, female):
             matches_count += 1
