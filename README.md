@@ -9,3 +9,4 @@ The course "Python Advanced" builds on Python language skills by addressing more
 - Application of functional programming
 - Error handling
 # Certificate
+# <p align="center"> ![alt text](https://github.com/momchilantonov/SoftUni-Python-Advanced-January-2021/blob/main/Python%20Advanced%20-%20January%202021%20-%20Certificate.jpeg) <p>
